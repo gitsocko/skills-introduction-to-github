@@ -1,1 +1,1 @@
-Here's my GitHub profile.
+Here's my GitHub profile for this project.
